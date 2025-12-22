@@ -15,5 +15,3 @@ Current Research Interests: Representation Learning, with a focus on
 - applications to tabular data, and 
 
 - multimodal learning with tabular data.
-
-Collaboration: Research on tabular learning with LG AI Research
